@@ -3,7 +3,7 @@ This simple alert bot can watch any website and will detect stock, it is a very 
 
 -----------------------------------------------------------------------------
 
-Step 1. Download Python and Chrome (If you dont have either yet!)\
+Step 1. Download Python and Chrome (If you dont have either yet!)
 
 Step 2. Use CMD and paste the following:\
 pip install bs4\
@@ -16,7 +16,7 @@ Step 4. Head over to https://chromedriver.chromium.org/downloads and find the ve
 
 Step 5. Download alertbot.py from the Depository.
 
-Step 6. (REQUIRES USAGE OF INSPECT ELEMENT, PLEASE WATCH A VIDEO ON IT IF YOU DONT UNDERSTAND WHAT IT IS)\
+Step 6. (REQUIRES USAGE OF INSPECT ELEMENT, PLEASE WATCH A VIDEO ON IT IF YOU DONT UNDERSTAND WHAT IT IS!)\
 Open the file and change:\
 (product name) to the items name (Example: "PS5" or "RTX 2070")\
 (products store) to the items store (Example: "Target" or "Amazon")\
