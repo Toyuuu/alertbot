@@ -10,9 +10,9 @@ pip install bs4\
 pip install selenium\
 pip install fake_useragent
 
-Step 3. Open chrome and Click ⋮; Help; About Chrome. Remember version number!\
+Step 3. Open chrome and Click ⋮; Help; About Chrome. Remember version number!
 
-Step 4. Head over to https://chromedriver.chromium.org/downloads and find the version number simular to you're chrome version. Then save it somewhere.\
+Step 4. Head over to https://chromedriver.chromium.org/downloads and find the version number simular to you're chrome version. Then save it somewhere.
 
 Step 5. Download alertbot.py from the Depository.
 
