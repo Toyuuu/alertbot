@@ -21,7 +21,7 @@ Open the file and change:\
 (product name) to the items name (Example: "PS5" or "RTX 2070")\
 (products store) to the items store (Example: "Target" or "Amazon")\
 (webdriver location here) to the location of chromedriver (Example: "D:/chromedriver.exe")\
-(item website url) to the websites url (Example: "https://www.amazon.com.au/PlayStation-5-Console/dp/B08HHV8945")\
+(item website url) to the websites url (Example: "https://www.amazon.com.au/PlayStation-5-Console/dp/B08HHV8945" )\
 (text tag) to the texts tag (Example: "span" or "div")\
 (text class) to the texts class (Example: "class" or "id")\
 (data inside of class) to the texts data (Example: "a-text-big" or "a-size-medium a-color-price")\
