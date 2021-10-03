@@ -8,13 +8,13 @@ Step 1. Download Python and Chrome (If you dont have either yet!)\
 Step 2. Use CMD and paste the following:\
 pip install bs4\
 pip install selenium\
-pip install fake_useragent \
+pip install fake_useragent
 
 Step 3. Open chrome and Click ⋮; Help; About Chrome. Remember version number!\
 
 Step 4. Head over to https://chromedriver.chromium.org/downloads and find the version number simular to you're chrome version. Then save it somewhere.\
 
-Step 5. Download alertbot.py from the Depository. \
+Step 5. Download alertbot.py from the Depository.
 
 Step 6. (REQUIRES USAGE OF INSPECT ELEMENT, PLEASE WATCH A VIDEO ON IT IF YOU DONT UNDERSTAND WHAT IT IS)\
 Open the file and change:\
@@ -25,7 +25,7 @@ Open the file and change:\
 (text tag) to the texts tag (Example: "span" or "div")\
 (text class) to the texts class (Example: "class" or "id")\
 (data inside of class) to the texts data (Example: "a-text-big" or "a-size-medium a-color-price")\
-(item text) to the text you are looking for (Example: "Add to cart" or "Not in stock") \
+(item text) to the text you are looking for (Example: "Add to cart" or "Not in stock")
 
 Step 7. Run the bot!
 
